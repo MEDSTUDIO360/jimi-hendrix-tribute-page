@@ -4,6 +4,5 @@ It makes up the first part of my coding portfolio.
 
 You can see this project live at the following URL:
 
-https://iarobinson.github.io/jimi-hendrix-tribute-page/
-
+https://medstudio360.github.io/jimi-hendrix-tribute-page/
 Enjoy!
